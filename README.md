@@ -1,2 +1,1 @@
-# Primer-Codigo
-Python - VS Code
+print('hola github')
